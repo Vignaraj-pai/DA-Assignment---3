@@ -1,0 +1,6 @@
+hatesonar
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
